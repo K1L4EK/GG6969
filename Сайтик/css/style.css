@@ -1,0 +1,130 @@
+.h2_ycadba{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+}
+.h1_ycadba{
+ text-align: center;
+ color: white;
+ font-size: 70px;
+}
+.header_ycadba{
+	background-image: url(../img/0.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container_header{
+	padding: 400px 0;
+}
+.nav__header{
+/*text-align: center;*/
+	font-size: 35px;
+	color: white;
+	display: flex;
+	list-style-type: none;
+	background-color: #216F75;
+	border-radius: 58px;
+	padding: 30px;
+
+}
+.nav__link{
+	text-decoration: none;
+	margin: 26px;
+	color: white;
+	position: relative;
+}
+.nav__link::after{
+	content: url('../img/1.png');
+	position: absolute;
+	margin-left: 15px;
+}
+.roboto-flex-h2_ycadba{
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
+}
+.cormorant-garamond-light {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.h1_2{
+	text-align: center;
+	font-size: 70px;
+	color: #216F75;
+	font-weight: 500;
+	text-shadow: #000000 1.5px 1.5px 5px;
+}
+.p_ycadba{
+	color: #216F75;
+	font-size: 40px;
+	margin-left: 70px;
+}
+.img_p{
+	display: flex;
+}
+.h1_3{
+	text-align: center;
+	font-size: 70px;
+	color: #216F75;
+}
+.h2_3{
+	display: flex;
+	font-size: 60px;
+	text-align: center;
+	color: #216F75;
+	justify-content: space-between;
+}
+.nav_item{
+	padding-right: 100px;
+	position: relative;
+}
+.container{
+	max-width: 1500px;
+	margin: 0 auto;
+}
+.nav_item::after{
+content: url('../img/Line 1.png');
+position: absolute;
+left: 300px;
+top: -13px;
+
+}
+.h2_3_1{
+	margin-left: 100px;
+	font-weight: 400;
+	width: 30%;
+}
+.p_3{
+	display: flex;
+	font-size: 45px;
+	justify-content: space-between;
+	text-align: center;
+}
+.p_ycadba_3{
+	margin-left: 100px;
+	font-size: 45px;
+	width: 33%;
+}
+.nav__link_2{
+	text-decoration: none;
+	margin: 26px;
+	color: white;
+	position: relative;
+}
+.nav_item_kol::after{
+	margin-left: 45px;
+}
